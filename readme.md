@@ -1,5 +1,5 @@
-﻿# English Version
-## Automatic agent that players checkers
+# English Version
+## Automatic agent that plays checkers
 ### Artifitial intellegence - Machine learning - Reinforcement learning
 
 This is a C# project that relies on reinforcement learning for training an agent to play checkers against humans with a very rich user interface.
