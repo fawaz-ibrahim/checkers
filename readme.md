@@ -16,7 +16,7 @@ After the training, you click on "Start Game", which will start the game, the ag
 
 This is the arabic version of the game, which allows you to walk in the four directions (up, down, left, right) and you have to jump over your opponent pieces to eat them.
 
-# Version Français
+# Version Française
 ## Agent automatique capable de jouer checkers
 ### Intelligence artificielle - Apprentissage machine - Apprentissage par renforcement
 
